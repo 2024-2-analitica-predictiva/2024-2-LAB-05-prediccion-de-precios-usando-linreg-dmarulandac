@@ -24,7 +24,7 @@
 # - Cree la columna 'Age' a partir de la columna 'Year'.
 #   Asuma que el año actual es 2021.
 # - Elimine las columnas 'Year' y 'Car_Name'.
-#
+#   
 #
 # Paso 2.
 # Divida los datasets en x_train, y_train, x_test, y_test.
